@@ -1,2 +1,2 @@
-# picutres
+# pictures
 for freecodecamp
